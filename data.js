@@ -10,7 +10,7 @@ const types = {
     plugins: [
       { type: "EQ", name: "Waves PuigTec EQs", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/13694-PuigTec-EQs?a_aid=688228cd487ff" },
       { type: "Comp", name: "Waves CLA-76", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13688-CLA-76-Compressor-Limiter?a_aid=688228cd487ff" },
-      { type: "Reverb", name: "Valhalla Room", url: "https://valhalladsp.com/shop/reverb/valhalla-room/" },
+      { type: "Reverb", name: "LX480 Essentials", url: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/8016-LX480-Essentials?a_aid=688228cd487ff" },
       { type: "Saturation", name: "Soundtoys Decapitator", url: "https://www.pluginboutique.com/product/2-Effects/44-Saturation/1801-Decapitator?a_aid=688228cd487ff" }
     ]
   },
@@ -24,7 +24,7 @@ const types = {
     plugins: [
       { type: "EQ", name: "FabFilter Pro-Q 4", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=688228cd487ff" },
       { type: "Comp", name: "FabFilter Pro-C 2", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/1756-FabFilter-Pro-C-2?a_aid=688228cd487ff" },
-      { type: "Reverb", name: "Valhalla VintageVerb", url: "https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/" },
+      { type: "Reverb", name: "Verberate 2", url: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/5154-Verberate-2?a_aid=688228cd487ff" },
       { type: "Saturation", name: "FabFilter Saturn 2", url: "https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=688228cd487ff" }
     ]
   },
@@ -52,7 +52,7 @@ const types = {
     plugins: [
       { type: "EQ", name: "TDR Nova GE", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/4656-TDR-Nova-GE?a_aid=688228cd487ff" },
       { type: "Comp", name: "TDR Kotelnikov GE", url: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/4657-TDR-Kotelnikov-GE?a_aid=688228cd487ff" },
-      { type: "Reverb", name: "Valhalla Shimmer", url: "https://valhalladsp.com/shop/reverb/valhalla-shimmer/" },
+      { type: "Reverb", name: "Eventide ShimmerVerb", url: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/6656-ShimmerVerb?a_aid=688228cd487ff" },
       { type: "Saturation", name: "Soundtoys Radiator", url: "https://www.pluginboutique.com/product/2-Effects/44-Saturation/1802-Radiator?a_aid=688228cd487ff" }
     ]
   },
@@ -67,7 +67,7 @@ const types = {
       { type: "EQ", name: "Waves API 550", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/13680-API-550?a_aid=688228cd487ff" },
       { type: "Comp", name: "Waves API 2500", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13695-API-2500?a_aid=688228cd487ff" },
       { type: "Reverb", name: "FabFilter Pro-R 2", url: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/11576-FabFilter-Pro-R-2?a_aid=688228cd487ff" },
-      { type: "Saturation", name: "Kazrog True Iron", url: "https://kazrog.com/products/true-iron" }
+      { type: "Saturation", name: "SSL Fusion Transformer", url: "https://www.pluginboutique.com/product/2-Effects/44-Saturation/8682-SSL-Fusion-Transformer?a_aid=688228cd487ff" }
     ]
   },
   CLEN: {
@@ -80,8 +80,8 @@ const types = {
     plugins: [
       { type: "EQ", name: "TDR Nova GE", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/4656-TDR-Nova-GE?a_aid=688228cd487ff" },
       { type: "Comp", name: "TDR Kotelnikov GE", url: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/4657-TDR-Kotelnikov-GE?a_aid=688228cd487ff" },
-      { type: "Reverb", name: "Valhalla Supermassive", url: "https://valhalladsp.com/shop/reverb/valhalla-supermassive/" },
-      { type: "Saturation", name: "Klanghelm SDRR", url: "https://klanghelm.com/contents/products/SDRR.php" }
+      { type: "Reverb", name: "Audio Damage Eos 2", url: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/4630-Eos-2?a_aid=688228cd487ff" },
+      { type: "Saturation", name: "Arturia Tape MELLO-FI", url: "https://www.pluginboutique.com/product/2-Effects/44-Saturation/8520-Tape-MELLO-FI?a_aid=688228cd487ff" }
     ]
   },
   DARK: {
@@ -94,8 +94,8 @@ const types = {
     plugins: [
       { type: "EQ", name: "Pulsar Massive", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/5866-Pulsar-Massive?a_aid=688228cd487ff" },
       { type: "Comp", name: "Waves CLA-2A", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13687-CLA-2A-Compressor-Limiter?a_aid=688228cd487ff" },
-      { type: "Reverb", name: "Valhalla Delay", url: "https://valhalladsp.com/shop/delay/valhalladelay/" },
-      { type: "Saturation", name: "Goodhertz Lossy", url: "https://goodhertz.com/lossy/" }
+      { type: "Reverb", name: "Waves H-Delay", url: "https://www.pluginboutique.com/product/2-Effects/10-Delay/13813-H-Delay-Hybrid-Delay?a_aid=688228cd487ff" },
+      { type: "Saturation", name: "Unfiltered Audio LO-FI-AF", url: "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/14931-Unfiltered-Audio-LO-FI-AF?a_aid=688228cd487ff" }
     ]
   },
   BRIT: {
@@ -137,7 +137,7 @@ const types = {
       { type: "EQ", name: "iZotope Neutron 5", url: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/9124-Neutron-4?a_aid=688228cd487ff" },
       { type: "Comp", name: "FabFilter Pro-C 2", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/1756-FabFilter-Pro-C-2?a_aid=688228cd487ff" },
       { type: "Reverb", name: "FabFilter Pro-R 2", url: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/11576-FabFilter-Pro-R-2?a_aid=688228cd487ff" },
-      { type: "Saturation", name: "Kazrog KClip 3", url: "https://kazrog.com/products/kclip" }
+      { type: "Saturation", name: "KNOCK Clipper", url: "https://www.pluginboutique.com/product/2-Effects/9-Limiter/9860-KNOCK-Clipper?a_aid=688228cd487ff" }
     ]
   },
   RETRO: {
@@ -164,7 +164,7 @@ const types = {
     plugins: [
       { type: "EQ", name: "Waves PuigChild Compressor", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13678-PuigChild-Compressor?a_aid=688228cd487ff" },
       { type: "Comp", name: "Waves dbx 160", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13682-dbx-160-Compressor-Limiter?a_aid=688228cd487ff" },
-      { type: "Reverb", name: "Valhalla Delay", url: "https://valhalladsp.com/shop/delay/valhalladelay/" },
+      { type: "Reverb", name: "Waves H-Delay", url: "https://www.pluginboutique.com/product/2-Effects/10-Delay/13813-H-Delay-Hybrid-Delay?a_aid=688228cd487ff" },
       { type: "Saturation", name: "Soundtoys Devil-Loc Deluxe", url: "https://www.pluginboutique.com/product/2-Effects/9-Limiter/1803-Devil-Loc-Deluxe?a_aid=688228cd487ff" }
     ]
   },
@@ -178,7 +178,7 @@ const types = {
     plugins: [
       { type: "EQ", name: "FabFilter Pro-Q 4", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=688228cd487ff" },
       { type: "Comp", name: "Waves CLA-2A", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13687-CLA-2A-Compressor-Limiter?a_aid=688228cd487ff" },
-      { type: "Reverb", name: "Valhalla Room", url: "https://valhalladsp.com/shop/reverb/valhalla-room/" },
+      { type: "Reverb", name: "Audio Damage Eos 2", url: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/4630-Eos-2?a_aid=688228cd487ff" },
       { type: "Saturation", name: "Waves NLS Non-Linear Summer", url: "https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/13800-NLS-Non-Linear-Summer?a_aid=688228cd487ff" }
     ]
   },
@@ -190,7 +190,7 @@ const types = {
     description: "サウンドにエッジと個性を求めるあなた。平凡を嫌い、聴いた瞬間に「これは違う」と思わせるユニークなサウンドを目指しています。実験と革新で、新しい音の地平を切り開きます。",
     genre: "オルタナティブ / エクスペリメンタル / グリッチ",
     plugins: [
-      { type: "EQ", name: "oeksound Soothe2", url: "https://oeksound.com/plugins/soothe2/" },
+      { type: "EQ", name: "RESO", url: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/8320-RESO?a_aid=688228cd487ff" },
       { type: "Comp", name: "Waves Infected Mushroom Pusher", url: "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/13599-Infected-Mushroom-Pusher?a_aid=688228cd487ff" },
       { type: "Reverb", name: "Output Portal", url: "https://www.pluginboutique.com/product/2-Effects/45-Granular-FX/5458-Portal?a_aid=688228cd487ff" },
       { type: "Saturation", name: "iZotope Trash", url: "https://www.pluginboutique.com/product/2-Effects/30-Distortion/11987-Trash?a_aid=688228cd487ff" }
@@ -218,10 +218,10 @@ const types = {
     description: "限られた予算で最大の効果を得ることを目指すあなた。無料や低価格でも高品質なプラグインを見つけ出し、賢く活用しています。コストパフォーマンスの最大化が、あなたのスキルです。",
     genre: "全ジャンル（予算重視）",
     plugins: [
-      { type: "EQ", name: "TDR Nova (Free)", url: "https://www.tokyodawn.net/tdr-nova/" },
-      { type: "Comp", name: "TDR Kotelnikov (Free)", url: "https://www.tokyodawn.net/tdr-kotelnikov/" },
-      { type: "Reverb", name: "Valhalla Supermassive (Free)", url: "https://valhalladsp.com/shop/reverb/valhalla-supermassive/" },
-      { type: "Saturation", name: "Softube Saturation Knob (Free)", url: "https://www.softube.com/saturationknob" }
+      { type: "EQ", name: "Waves Renaissance EQ", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/13614-Renaissance-Equalizer?a_aid=688228cd487ff" },
+      { type: "Comp", name: "Waves Renaissance Compressor", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13646-Renaissance-Compressor?a_aid=688228cd487ff" },
+      { type: "Reverb", name: "TAL-Dub", url: "https://www.pluginboutique.com/product/2-Effects/10-Delay/440-TAL-Dub?a_aid=688228cd487ff" },
+      { type: "Saturation", name: "CHOW Tape Model", url: "https://www.pluginboutique.com/product/2-Effects/44-Saturation/7318-CHOW-Tape-Model?a_aid=688228cd487ff" }
     ]
   }
 };
