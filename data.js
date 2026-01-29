@@ -51,7 +51,7 @@ const types = {
     genre: "アンビエント / シネマティック / ポストロック",
     plugins: [
       { type: "EQ", name: "TDR Nova GE", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/4656-TDR-Nova-GE?a_aid=688228cd487ff" },
-      { type: "Comp", name: "TDR Kotelnikov GE", url: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/4657-TDR-Kotelnikov-GE?a_aid=688228cd487ff" },
+      { type: "Comp", name: "TDR Kotelnikov GE", url: "https://www.pluginboutique.com/product/3-Studio-Tools/71-Dynamic-Processor/4657-TDR-Kotelnikov-GE?a_aid=688228cd487ff" },
       { type: "Reverb", name: "Eventide ShimmerVerb", url: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/6656-ShimmerVerb?a_aid=688228cd487ff" },
       { type: "Saturation", name: "Soundtoys Radiator", url: "https://www.pluginboutique.com/product/2-Effects/44-Saturation/1802-Radiator?a_aid=688228cd487ff" }
     ]
@@ -79,9 +79,9 @@ const types = {
     genre: "アコースティック / フォーク / クラシック",
     plugins: [
       { type: "EQ", name: "TDR Nova GE", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/4656-TDR-Nova-GE?a_aid=688228cd487ff" },
-      { type: "Comp", name: "TDR Kotelnikov GE", url: "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/4657-TDR-Kotelnikov-GE?a_aid=688228cd487ff" },
+      { type: "Comp", name: "TDR Kotelnikov GE", url: "https://www.pluginboutique.com/product/3-Studio-Tools/71-Dynamic-Processor/4657-TDR-Kotelnikov-GE?a_aid=688228cd487ff" },
       { type: "Reverb", name: "Audio Damage Eos 2", url: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/4630-Eos-2?a_aid=688228cd487ff" },
-      { type: "Saturation", name: "Arturia Tape MELLO-FI", url: "https://www.pluginboutique.com/product/2-Effects/44-Saturation/8520-Tape-MELLO-FI?a_aid=688228cd487ff" }
+      { type: "Saturation", name: "Arturia Tape MELLO-FI", url: "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/8520-Tape-MELLO-FI?a_aid=688228cd487ff" }
     ]
   },
   DARK: {
@@ -92,7 +92,7 @@ const types = {
     description: "深みのある暗めのトーンを好むあなた。高域を抑えめにした落ち着いたサウンドで、雰囲気のある楽曲を作り上げます。影と光のコントラストで、独特の世界観を表現します。",
     genre: "ダークアンビエント / インダストリアル / ドゥームメタル",
     plugins: [
-      { type: "EQ", name: "Pulsar Massive", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/5866-Pulsar-Massive?a_aid=688228cd487ff" },
+      { type: "EQ", name: "Pulsar Massive", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/9101-MASSIVE?a_aid=688228cd487ff" },
       { type: "Comp", name: "Waves CLA-2A", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13687-CLA-2A-Compressor-Limiter?a_aid=688228cd487ff" },
       { type: "Reverb", name: "Waves H-Delay", url: "https://www.pluginboutique.com/product/2-Effects/10-Delay/13813-H-Delay-Hybrid-Delay?a_aid=688228cd487ff" },
       { type: "Saturation", name: "Unfiltered Audio LO-FI-AF", url: "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/14931-Unfiltered-Audio-LO-FI-AF?a_aid=688228cd487ff" }
@@ -134,7 +134,7 @@ const types = {
     description: "数値やアナライザーを駆使し、科学的アプローチでミックスを行うあなた。問題を特定し、的確に解決することを重視しています。データに基づく判断で、確実に品質を向上させます。",
     genre: "プログレッシブ / エレクトロニカ / テクノ",
     plugins: [
-      { type: "EQ", name: "iZotope Neutron 5", url: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/9124-Neutron-4?a_aid=688228cd487ff" },
+      { type: "EQ", name: "iZotope Neutron 5", url: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=688228cd487ff" },
       { type: "Comp", name: "FabFilter Pro-C 2", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/1756-FabFilter-Pro-C-2?a_aid=688228cd487ff" },
       { type: "Reverb", name: "FabFilter Pro-R 2", url: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/11576-FabFilter-Pro-R-2?a_aid=688228cd487ff" },
       { type: "Saturation", name: "KNOCK Clipper", url: "https://www.pluginboutique.com/product/2-Effects/9-Limiter/9860-KNOCK-Clipper?a_aid=688228cd487ff" }
