@@ -8,7 +8,7 @@ const types = {
     description: "アナログ機材の温かみを愛し、ビンテージサウンドを追求するあなた。音の質感や倍音の豊かさにこだわり、デジタル臭さを排除したいと考えています。真空管やテープの持つ有機的な響きこそが、あなたの理想のサウンドです。",
     genre: "Lo-Fi / ネオソウル / ジャズ",
     plugins: [
-      { type: "EQ", name: "Waves PuigTec EQs", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/13694-PuigTec-EQs?a_aid=688228cd487ff" },
+      { type: "EQ", name: "Arturia Pre 1973", url: "https://www.pluginboutique.com/product/2-Effects/74-Preamp/4861-Pre-1973?a_aid=688228cd487ff" },
       { type: "Comp", name: "Waves CLA-76", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13688-CLA-76-Compressor-Limiter?a_aid=688228cd487ff" },
       { type: "Reverb", name: "LX480 Essentials", url: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/8016-LX480-Essentials?a_aid=688228cd487ff" },
       { type: "Saturation", name: "Soundtoys Decapitator", url: "https://www.pluginboutique.com/product/2-Effects/44-Saturation/1801-Decapitator?a_aid=688228cd487ff" }
@@ -23,7 +23,7 @@ const types = {
     genre: "ポップス / R&B / シティポップ",
     plugins: [
       { type: "EQ", name: "FabFilter Pro-Q 4", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=688228cd487ff" },
-      { type: "Comp", name: "FabFilter Pro-C 2", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/1756-FabFilter-Pro-C-2?a_aid=688228cd487ff" },
+      { type: "Comp", name: "FabFilter Pro-C 3", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=688228cd487ff" },
       { type: "Reverb", name: "Verberate 2", url: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/5154-Verberate-2?a_aid=688228cd487ff" },
       { type: "Saturation", name: "FabFilter Saturn 2", url: "https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=688228cd487ff" }
     ]
@@ -38,7 +38,7 @@ const types = {
     plugins: [
       { type: "EQ", name: "SSL Native Channel Strip 2", url: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/8653-SSL-Native-Channel-Strip-2?a_aid=688228cd487ff" },
       { type: "Comp", name: "Waves CLA-76", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13688-CLA-76-Compressor-Limiter?a_aid=688228cd487ff" },
-      { type: "Reverb", name: "Soundtoys Little Plate", url: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/4715-Little-Plate?a_aid=688228cd487ff" },
+      { type: "Reverb", name: "Soundtoys SuperPlate", url: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/10583-SuperPlate?a_aid=688228cd487ff" },
       { type: "Saturation", name: "Waves Abbey Road J37 Tape", url: "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/13691-Abbey-Road-J37-Tape?a_aid=688228cd487ff" }
     ]
   },
@@ -94,7 +94,7 @@ const types = {
     plugins: [
       { type: "EQ", name: "Pulsar Massive", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/9101-MASSIVE?a_aid=688228cd487ff" },
       { type: "Comp", name: "Waves CLA-2A", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13687-CLA-2A-Compressor-Limiter?a_aid=688228cd487ff" },
-      { type: "Reverb", name: "Waves H-Delay", url: "https://www.pluginboutique.com/product/2-Effects/10-Delay/13813-H-Delay-Hybrid-Delay?a_aid=688228cd487ff" },
+      { type: "Reverb", name: "SSL X-Delay", url: "https://www.pluginboutique.com/product/2-Effects/10-Delay/8741-SSL-X-Delay?a_aid=688228cd487ff" },
       { type: "Saturation", name: "Unfiltered Audio LO-FI-AF", url: "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/14931-Unfiltered-Audio-LO-FI-AF?a_aid=688228cd487ff" }
     ]
   },
@@ -135,7 +135,7 @@ const types = {
     genre: "プログレッシブ / エレクトロニカ / テクノ",
     plugins: [
       { type: "EQ", name: "iZotope Neutron 5", url: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=688228cd487ff" },
-      { type: "Comp", name: "FabFilter Pro-C 2", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/1756-FabFilter-Pro-C-2?a_aid=688228cd487ff" },
+      { type: "Comp", name: "FabFilter Pro-C 3", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=688228cd487ff" },
       { type: "Reverb", name: "FabFilter Pro-R 2", url: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/11576-FabFilter-Pro-R-2?a_aid=688228cd487ff" },
       { type: "Saturation", name: "KNOCK Clipper", url: "https://www.pluginboutique.com/product/2-Effects/9-Limiter/9860-KNOCK-Clipper?a_aid=688228cd487ff" }
     ]
@@ -148,7 +148,7 @@ const types = {
     description: "60〜80年代のビンテージサウンドを現代に蘇らせたいあなた。テープ、真空管、古いデジタル機材の質感を愛しています。過去の名機が生み出す魔法を、現代の制作に取り入れます。",
     genre: "ファンク / ディスコ / シンセウェーブ",
     plugins: [
-      { type: "EQ", name: "Waves PuigTec EQs", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/13694-PuigTec-EQs?a_aid=688228cd487ff" },
+      { type: "EQ", name: "Arturia Pre 1973", url: "https://www.pluginboutique.com/product/2-Effects/74-Preamp/4861-Pre-1973?a_aid=688228cd487ff" },
       { type: "Comp", name: "Waves Kramer Master Tape", url: "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/13679-Kramer-Master-Tape?a_aid=688228cd487ff" },
       { type: "Reverb", name: "Arturia Rev PLATE-140", url: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/6637-Rev-PLATE-140?a_aid=688228cd487ff" },
       { type: "Saturation", name: "Waves Abbey Road Vinyl", url: "https://www.pluginboutique.com/product/2-Effects/44-Saturation/13681-Abbey-Road-Vinyl?a_aid=688228cd487ff" }
@@ -164,7 +164,7 @@ const types = {
     plugins: [
       { type: "EQ", name: "Waves PuigChild Compressor", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13678-PuigChild-Compressor?a_aid=688228cd487ff" },
       { type: "Comp", name: "Waves dbx 160", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13682-dbx-160-Compressor-Limiter?a_aid=688228cd487ff" },
-      { type: "Reverb", name: "Waves H-Delay", url: "https://www.pluginboutique.com/product/2-Effects/10-Delay/13813-H-Delay-Hybrid-Delay?a_aid=688228cd487ff" },
+      { type: "Reverb", name: "SSL X-Delay", url: "https://www.pluginboutique.com/product/2-Effects/10-Delay/8741-SSL-X-Delay?a_aid=688228cd487ff" },
       { type: "Saturation", name: "Soundtoys Devil-Loc Deluxe", url: "https://www.pluginboutique.com/product/2-Effects/9-Limiter/1803-Devil-Loc-Deluxe?a_aid=688228cd487ff" }
     ]
   },
@@ -204,10 +204,10 @@ const types = {
     description: "特定の方向性に偏らず、バランスの取れたミックスを目指すあなた。汎用性が高く、どんなジャンルにも対応できる柔軟性を持っています。安定感と適応力で、あらゆる状況に対応します。",
     genre: "多ジャンル対応",
     plugins: [
-      { type: "EQ", name: "Waves Renaissance EQ", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/13614-Renaissance-Equalizer?a_aid=688228cd487ff" },
-      { type: "Comp", name: "Waves Renaissance Compressor", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13646-Renaissance-Compressor?a_aid=688228cd487ff" },
-      { type: "Reverb", name: "Waves Renaissance Reverb", url: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/13674-Renaissance-Reverb?a_aid=688228cd487ff" },
-      { type: "Saturation", name: "Waves Vitamin", url: "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/13785-Vitamin-Sonic-Enhancer?a_aid=688228cd487ff" }
+      { type: "EQ", name: "TDR SlickEQ M", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/4655-TDR-SlickEQ-M?a_aid=688228cd487ff" },
+      { type: "Comp", name: "Arturia Comp VCA-65", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/5639-Comp-VCA-65?a_aid=688228cd487ff" },
+      { type: "Reverb", name: "Arturia Rev SPRING-636", url: "https://www.pluginboutique.com/product/2-Effects/17-Reverb/6635-Rev-SPRING-636?a_aid=688228cd487ff" },
+      { type: "Saturation", name: "SSL Native X-Saturator", url: "https://www.pluginboutique.com/product/2-Effects/44-Saturation/8667-SSL-Native-X-Saturator?a_aid=688228cd487ff" }
     ]
   },
   BUDG: {
@@ -218,8 +218,8 @@ const types = {
     description: "限られた予算で最大の効果を得ることを目指すあなた。無料や低価格でも高品質なプラグインを見つけ出し、賢く活用しています。コストパフォーマンスの最大化が、あなたのスキルです。",
     genre: "全ジャンル（予算重視）",
     plugins: [
-      { type: "EQ", name: "Waves Renaissance EQ", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/13614-Renaissance-Equalizer?a_aid=688228cd487ff" },
-      { type: "Comp", name: "Waves Renaissance Compressor", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13646-Renaissance-Compressor?a_aid=688228cd487ff" },
+      { type: "EQ", name: "TDR SlickEQ M", url: "https://www.pluginboutique.com/product/2-Effects/16-EQ/4655-TDR-SlickEQ-M?a_aid=688228cd487ff" },
+      { type: "Comp", name: "Arturia Comp VCA-65", url: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/5639-Comp-VCA-65?a_aid=688228cd487ff" },
       { type: "Reverb", name: "TAL-Dub", url: "https://www.pluginboutique.com/product/2-Effects/10-Delay/440-TAL-Dub?a_aid=688228cd487ff" },
       { type: "Saturation", name: "CHOW Tape Model", url: "https://www.pluginboutique.com/product/2-Effects/44-Saturation/7318-CHOW-Tape-Model?a_aid=688228cd487ff" }
     ]
